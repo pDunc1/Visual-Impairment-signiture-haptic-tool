@@ -1,4 +1,4 @@
-# Haply-Haptic-Project
+# Utilising Haptics to aid those with visual impairments to create and learn a signiture
 Using position control, bezier functions and other exploration types to aid in visual representation for the people with vision impairments with the Haply Haptic Device
 
 10th Order Matlab is code used to upload a trace as a JPEG file to ascertain bezier coordinate computaionally in MATLAB. This saves the Bezier coordiantes directly into a csv file to be accessed by the Guided Exploration 10th order folder for Processing. Here the Bezier coordinates are converted back to form the trace for the Haply end effector tool to follow and guide a user around.
